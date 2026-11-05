@@ -1,0 +1,8 @@
+[package]
+name = "thread_pool_executor"
+version = "0.3.0"
+edition = "2021"
+rust-version = "1.74"
+description = "Легкий менеджер пулу потоків (Thread Pool Executor) на стандартній бібліотеці Rust"
+
+[dependencies]
